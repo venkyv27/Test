@@ -1,0 +1,5 @@
+object Random extends App {
+
+
+
+}
